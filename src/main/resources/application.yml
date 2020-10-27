@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: micronautJdbcTest1
+datasources:
+  default:
+    url: jdbc:mysql://unit-300:3306/jbtests?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: irina
+    password: jolt
+    dialect: MYSQL

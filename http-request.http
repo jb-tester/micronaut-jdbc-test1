@@ -1,0 +1,25 @@
+###
+GET http://localhost:8080/tab1/nativeQuery
+
+###
+GET http://localhost:8080/tab1/adults
+
+<> 2020-10-27T165731.200.json
+
+###
+GET http://localhost:8080/tab1/explicitQuery
+
+<> 2020-10-27T165745.500.json
+<> 2020-10-27T165528.500.json
+
+###
+###
+GET http://localhost:8080/tab1Fems/nativeQuery
+
+###
+GET http://localhost:8080/tab1Fems/adults
+
+<> 2020-10-27T165731.200.json
+
+###
+GET http://localhost:8080/tab1Fems/explicitQuery
